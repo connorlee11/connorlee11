@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/R5lKMiBdmDeOpim202/giphy.gif">
+</p>
+
 <!--
 **connorlee11/connorlee11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
