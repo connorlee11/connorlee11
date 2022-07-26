@@ -1,9 +1,15 @@
 ### Hi there 👋
 
-
+<p align="center">
+  <img src="https://i.imgur.com/eyvpchE.png">
+</p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/R5lKMiBdmDeOpim202/giphy.gif" alt="Example1" width="1050" height="320">
+  <img src="https://media.giphy.com/media/R5lKMiBdmDeOpim202/giphy.gif">
+</p>
+
+<p align="center">
+    <img src="https://media.giphy.com/media/R5lKMiBdmDeOpim202/giphy.gif" alt="Example1" width="950" height="220">
 </p>
 
 <!--
