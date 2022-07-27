@@ -11,16 +11,13 @@
 <br />
 
 ---
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2]
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
-[![Website](https://user-images.githubusercontent.com/107943301/181128673-5937ffa3-17bd-4d04-a696-f979d990b153.png)][4]
-[![Website](https://i.imgur.com/8ixrB0l.png)][5]
+[![facebook](https://i.imgur.com/0wpIXBk.png)][1]
+[![linkedin](https://i.imgur.com/Vwqc8Jn.png)][2]
+[![Website](https://i.imgur.com/3HVOZA9.png)][3]
 ---
-[1]: https://github.com/connorlee11
-[2]: https://www.facebook.com/connor.lee.31521301
-[3]: https://www.linkedin.com/in/connor-lee-sound/
-[4]: https://connorlee1111.wixsite.com/website
+[1]: https://www.facebook.com/connor.lee.31521301
+[2]: https://www.linkedin.com/in/connor-lee-sound/
+[3]: https://connorlee1111.wixsite.com/website
  <br />
 
 
@@ -44,8 +41,8 @@
 
 # GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=connorlee11&show_icons=true&theme=chartreuse-dark&hide=shaderlab)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connorlee11&repo=Downlight&theme=chartreuse-dark)
 ![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connorlee11&hide=stars&show_icons=true&theme=chartreuse-dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connorlee11&repo=Downlight&theme=chartreuse-dark)
 
 
 
